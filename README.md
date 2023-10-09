@@ -26,6 +26,11 @@ Simply type the following commands in your terminal.
  - [Research Paper](https://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf)
 
 
+
+https://github.com/adityaraina100/Ping-Pong-Game-using-NEAT/assets/75716013/e05b40dc-f3b4-4e90-9914-72b67345fec0
+
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
